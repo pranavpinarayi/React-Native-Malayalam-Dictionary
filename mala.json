@@ -1,0 +1,568 @@
+[
+ {
+   "# id": 174569,
+   "english_word": ".net",
+   "part_of_speech": "n",
+   "malayalam_definition": "പുത്തന്‍ കമ്പ്യൂട്ടര്‍ സാങ്കേതികത ഭാഷ"
+ },
+ {
+   "# id": 116102,
+   "english_word": "A bad patch",
+   "part_of_speech": "n",
+   "malayalam_definition": "കുഴപ്പം പിടിച്ച സമയം"
+ },
+ {
+   "# id": 219752,
+   "english_word": "a bag of bones",
+   "part_of_speech": "phr",
+   "malayalam_definition": "വളരെയതികം മെലിഞ്ഞ വ്യക്തി അഥവാ മൃഗം"
+ },
+ {
+   "# id": 218576,
+   "english_word": "a bag of bones",
+   "part_of_speech": "phr",
+   "malayalam_definition": "വളരെയധികം മെലിഞ്ഞ വ്യക്തി അഥവാ മൃഗം"
+ },
+ {
+   "# id": 115869,
+   "english_word": "A bed of nails",
+   "part_of_speech": "n",
+   "malayalam_definition": "പ്രയാസപ്പെടുന്ന അവസ്ഥ"
+ },
+ {
+   "# id": 200587,
+   "english_word": "A bed of nails",
+   "part_of_speech": "idm",
+   "malayalam_definition": "ശരശയ്യ"
+ },
+ {
+   "# id": 115767,
+   "english_word": "A bed of roses",
+   "part_of_speech": "n",
+   "malayalam_definition": "പൂമെത്ത"
+ },
+ {
+   "# id": 115768,
+   "english_word": "A bed of roses",
+   "part_of_speech": "idm",
+   "malayalam_definition": "സുഖകരമായ അവസ്ഥ"
+ },
+ {
+   "# id": 113832,
+   "english_word": "A bed of thorn",
+   "part_of_speech": "n",
+   "malayalam_definition": "അസുഖകരമായ അവസ്ഥ"
+ },
+ {
+   "# id": 113665,
+   "english_word": "A bed roses",
+   "part_of_speech": "n",
+   "malayalam_definition": "പൂമെത്ത"
+ },
+ {
+   "# id": 113885,
+   "english_word": "A bird in a golden cage",
+   "part_of_speech": "n",
+   "malayalam_definition": "സുഖകരമെങ്കിലും സ്വാതന്ത്യ്രമില്ലാത്ത അവസ്ഥ"
+ },
+ {
+   "# id": 113886,
+   "english_word": "A bird in hand is worth  two in the bush",
+   "part_of_speech": "idm",
+   "malayalam_definition": "സ്വന്തമല്ലാത്തതും നല്ലതെന്നു തോന്നുന്നതുമായ വസ്‌തുക്കളേക്കാള്‍മെച്ചം ഗുണംകുറവാണെങ്കിലും സ്വന്തമായുള്ളവയാണ്‌"
+ },
+ {
+   "# id": 106370,
+   "english_word": "A bit",
+   "part_of_speech": "phr",
+   "malayalam_definition": "ശകലം"
+ },
+ {
+   "# id": 37253,
+   "english_word": "A bit much",
+   "part_of_speech": "a",
+   "malayalam_definition": "അല്‍പം അമിതമായ"
+ },
+ {
+   "# id": 37254,
+   "english_word": "A bit much",
+   "part_of_speech": "a",
+   "malayalam_definition": "നീതിക്ക്‌ നിരക്കാത്ത"
+ },
+ {
+   "# id": 37255,
+   "english_word": "A bit much",
+   "part_of_speech": "-",
+   "malayalam_definition": "അല്‍പം കൂടുതല്‍"
+ },
+ {
+   "# id": 84755,
+   "english_word": "A bit thick",
+   "part_of_speech": "-",
+   "malayalam_definition": "യുക്തിയുക്തമായതിനപ്പുറത്തു"
+ },
+ {
+   "# id": 218637,
+   "english_word": "A bitter pill to swallow",
+   "part_of_speech": "idm",
+   "malayalam_definition": "അപ്രിയമായ യാഥാര്‍ത്ഥ്യം അoഗീകരികേണ്ട അവസ്ഥ"
+ },
+ {
+   "# id": 200800,
+   "english_word": "A bitter pill to swallow",
+   "part_of_speech": "idm",
+   "malayalam_definition": "ഉള്‍ക്കൊള്ളാന്‍ ബുദ്ധിമുട്ടുള്ള കാര്യം"
+ },
+ {
+   "# id": 113686,
+   "english_word": "A black sheep",
+   "part_of_speech": "n",
+   "malayalam_definition": "കരിങ്കാലി"
+ },
+ {
+   "# id": 113687,
+   "english_word": "A black sheep",
+   "part_of_speech": "n",
+   "malayalam_definition": "വിശ്വസിക്കാന്‍ പറ്റാത്തവന്‍"
+ },
+ {
+   "# id": 106701,
+   "english_word": "A black-leg",
+   "part_of_speech": "n",
+   "malayalam_definition": "കരിങ്കാലി"
+ },
+ {
+   "# id": 106702,
+   "english_word": "A black-leg",
+   "part_of_speech": "n",
+   "malayalam_definition": "ചതിയന്‍"
+ },
+ {
+   "# id": 219940,
+   "english_word": "A blank look",
+   "part_of_speech": "idm",
+   "malayalam_definition": "ഒന്നും മനസ്സിലാകാത്ത പോലെ നോക്കുക"
+ },
+ {
+   "# id": 100444,
+   "english_word": "A blood relative",
+   "part_of_speech": "n",
+   "malayalam_definition": "ബന്ധു"
+ },
+ {
+   "# id": 100445,
+   "english_word": "A blood relative",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഒരു പങ്കിന്‌ അവകാശമുള്ളവന്‍"
+ },
+ {
+   "# id": 100687,
+   "english_word": "A brahmin who receives presents in honour of the dead",
+   "part_of_speech": "n",
+   "malayalam_definition": "മരിച്ചവരുടെ ബഹുമാനാര്‍ത്ഥം നല്‍കപ്പെടുന്ന സമ്മാനങ്ങള്‍ വാങ്ങുന്ന ബ്രാഹ്മണന്‍"
+ },
+ {
+   "# id": 113688,
+   "english_word": "A bull in a china shop",
+   "part_of_speech": "idm",
+   "malayalam_definition": "വരുംവരായ്‌കകളെപ്പറ്റി ചിന്തിക്കാത്തവന്‍"
+ },
+ {
+   "# id": 116022,
+   "english_word": "A bun in the oven",
+   "part_of_speech": "v",
+   "malayalam_definition": "ഗര്‍ഭിണിയായിരിക്കുക"
+ },
+ {
+   "# id": 113685,
+   "english_word": "A bunch of",
+   "part_of_speech": "a",
+   "malayalam_definition": "ഒരേ വസ്‌തുക്കള്‍ കൂട്ടമായിരിക്കുന്ന"
+ },
+ {
+   "# id": 201781,
+   "english_word": "A capella",
+   "part_of_speech": "n",
+   "malayalam_definition": "സംഗീത ഉപകരണങ്ങളുടെ അകമ്പടി കൂടാതെ ഒറ്റക്കോ സംഘമായോ ആലപിക്കുന്ന ഗാനം"
+ },
+ {
+   "# id": 217922,
+   "english_word": "A capella",
+   "part_of_speech": "n",
+   "malayalam_definition": "വാദ്യ ഉപകരണങ്ങൾ ഇല്ലാതെ വായ കൊണ്ടും കൈ കൊണ്ടും ഉണ്ടാകുന്ന സംഗീതം"
+ },
+ {
+   "# id": 115973,
+   "english_word": "A capital offence",
+   "part_of_speech": "n",
+   "malayalam_definition": "വധശിക്ഷാര്‍ഹമായ കുറ്റം"
+ },
+ {
+   "# id": 114186,
+   "english_word": "A cardinal error",
+   "part_of_speech": "-",
+   "malayalam_definition": "ഗുരുതരമായ തെറ്റ്‌"
+ },
+ {
+   "# id": 114187,
+   "english_word": "A cardinal error",
+   "part_of_speech": "n",
+   "malayalam_definition": "പാപം"
+ },
+ {
+   "# id": 110006,
+   "english_word": "A caste title",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജാതിപ്പേര്‌"
+ },
+ {
+   "# id": 106509,
+   "english_word": "A cheat",
+   "part_of_speech": "n",
+   "malayalam_definition": "ചതിയന്‍"
+ },
+ {
+   "# id": 218061,
+   "english_word": "A chip of the old block",
+   "part_of_speech": "idm",
+   "malayalam_definition": "സ്വന്തം അച്ഛനമ്മമാരുടെയോ കുടുംബ നാഥരെയോ അതേ സ്വഭാവമുള്ള ആൾ"
+ },
+ {
+   "# id": 218014,
+   "english_word": "A chip off the old block",
+   "part_of_speech": "phr",
+   "malayalam_definition": "അച്ഛനമ്മമാരുമായി രൂപത്തിലോ പെരുമാറ്റത്തിലോ സാദൃശ്യമുള്ളയാൾ"
+ },
+ {
+   "# id": 113979,
+   "english_word": "A chorus of thanks",
+   "part_of_speech": "v",
+   "malayalam_definition": "കുറെ ആളുകള്‍ ഒരുമിച്ച്‌ ഒരേസമയം നന്ദി പ്രകടിപ്പിക്കുക"
+ },
+ {
+   "# id": 80302,
+   "english_word": "A cold  sweat",
+   "part_of_speech": "-",
+   "malayalam_definition": "മരണഭയത്താലും മറ്റും വിയര്‍ത്തുപോകല്‍"
+ },
+ {
+   "# id": 109218,
+   "english_word": "A collyrium",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഒരിനം കണ്മഷി"
+ },
+ {
+   "# id": 113792,
+   "english_word": "A confirmed bachelor",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഒരിക്കലും വിവാഹം കഴിക്കില്ലെന്ന്‌ ദൃഢനിശ്ചയംചെയ്‌ത ആള്‍"
+ },
+ {
+   "# id": 101280,
+   "english_word": "A cross-breed of male horse and female deer",
+   "part_of_speech": "n",
+   "malayalam_definition": "ആണ്‍കുതിരയും പെണ്‍മാനും തമ്മില്‍ ഇണചേര്‍ന്ന്‌ സൃഷ്‌ടിക്കുന്ന സങ്കരജാതി"
+ },
+ {
+   "# id": 101247,
+   "english_word": "A cubit",
+   "part_of_speech": "-",
+   "malayalam_definition": "ഒരു മുഴം"
+ },
+ {
+   "# id": 101248,
+   "english_word": "A cubit",
+   "part_of_speech": "n",
+   "malayalam_definition": "1822 ഇഞ്ചു വരുന്ന ക്യൂബി അളവ്‌"
+ },
+ {
+   "# id": 101249,
+   "english_word": "A cubit",
+   "part_of_speech": "n",
+   "malayalam_definition": "മുഴം"
+ },
+ {
+   "# id": 115781,
+   "english_word": "A dead duck",
+   "part_of_speech": "n",
+   "malayalam_definition": "പരിഗണനാര്‍ഹമല്ലാത്ത കാര്യം"
+ },
+ {
+   "# id": 114059,
+   "english_word": "A dead luck",
+   "part_of_speech": "n",
+   "malayalam_definition": "പരിഗണനാര്‍ഹമല്ലാത്ത കാര്യം"
+ },
+ {
+   "# id": 114536,
+   "english_word": "A dear john letter",
+   "part_of_speech": "-",
+   "malayalam_definition": "സ്‌നേഹബന്ധംഅവസാനിപ്പിക്കാനുള്ള കത്ത്‌"
+ },
+ {
+   "# id": 101925,
+   "english_word": "A devil kept under control by siva",
+   "part_of_speech": "n",
+   "malayalam_definition": "ശിവന്റെ നിയന്ത്രണത്തിലുള്ള ഒരു ദുര്‍മ്മൂര്‍ത്തി"
+ },
+ {
+   "# id": 86044,
+   "english_word": "A dirty trick",
+   "part_of_speech": "n",
+   "malayalam_definition": "നികൃഷ്‌ട പ്രവൃത്തി"
+ },
+ {
+   "# id": 86045,
+   "english_word": "A dirty trick",
+   "part_of_speech": "n",
+   "malayalam_definition": "വൃത്തികെട്ട പറ്റിക്കല്‍"
+ },
+ {
+   "# id": 101765,
+   "english_word": "A disciple who lodges with his preceptor",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഗുരുവിനോടൊപ്പം പാര്‍ക്കുന്ന ശിഷ്യന്‍"
+ },
+ {
+   "# id": 101766,
+   "english_word": "A disciple who lodges with his preceptor",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഗുരുകുല വാസി"
+ },
+ {
+   "# id": 110038,
+   "english_word": "A divine ministrel",
+   "part_of_speech": "n",
+   "malayalam_definition": "ദേവഗായകന്‍ നാരദമുനി"
+ },
+ {
+   "# id": 175348,
+   "english_word": "A dog's death",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഒരു നായയുടെ മരണം"
+ },
+ {
+   "# id": 114111,
+   "english_word": "A dogs life",
+   "part_of_speech": "phr",
+   "malayalam_definition": "ദുരിതങ്ങളും കഷ്‌ടപ്പാടുകളും നിറഞ്ഞ ജീവിതം"
+ },
+ {
+   "# id": 108568,
+   "english_word": "A doll-play",
+   "part_of_speech": "n",
+   "malayalam_definition": "പാവകളി"
+ },
+
+ {
+   "# id": 24609,
+   "english_word": "Zodiac",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജ്യോതിഷചക്രം"
+ },
+ {
+   "# id": 24610,
+   "english_word": "Zodiac",
+   "part_of_speech": "n",
+   "malayalam_definition": "മേടം"
+ },
+ {
+   "# id": 173960,
+   "english_word": "Zodiac",
+   "part_of_speech": "n",
+   "malayalam_definition": "രാശിസ്ഥാനം"
+ },
+ {
+   "# id": 24619,
+   "english_word": "Zone",
+   "part_of_speech": "n",
+   "malayalam_definition": "നിര്‍ദ്ദിഷ്‌ട സ്വഭാവമുള്ള പ്രദേശം"
+ },
+ {
+   "# id": 24620,
+   "english_word": "Zone",
+   "part_of_speech": "n",
+   "malayalam_definition": "മണ്‌ഡലം"
+ },
+ {
+   "# id": 173967,
+   "english_word": "Zone",
+   "part_of_speech": "n",
+   "malayalam_definition": "മണ്‌ഡലങ്ങള്‍"
+ },
+ {
+   "# id": 173968,
+   "english_word": "Zone",
+   "part_of_speech": "n",
+   "malayalam_definition": "മേഖലകള്‍"
+ },
+ {
+   "# id": 173970,
+   "english_word": "Zone",
+   "part_of_speech": "v",
+   "malayalam_definition": "മേഖലയായിത്തിരിക്കുക"
+ },
+ {
+   "# id": 173971,
+   "english_word": "Zone",
+   "part_of_speech": "v",
+   "malayalam_definition": "മണ്‌ഡലങ്ങളാക്കുക"
+ },
+ {
+   "# id": 200103,
+   "english_word": "Zone",
+   "part_of_speech": "-",
+   "malayalam_definition": "മണ്ഡലം"
+ },
+ {
+   "# id": 200104,
+   "english_word": "Zone",
+   "part_of_speech": "-",
+   "malayalam_definition": "വലയം"
+ },
+ {
+   "# id": 217570,
+   "english_word": "Zone",
+   "part_of_speech": "n",
+   "malayalam_definition": "മണ്ഡലങ്ങള്‍"
+ },
+ {
+   "# id": 115360,
+   "english_word": "Zone punch",
+   "part_of_speech": "n",
+   "malayalam_definition": "പഞ്ച്‌ കാര്‍ഡിന്റെ മുകളിലത്തെ മൂന്നു വരികളിലുള്ള ദ്വാരം"
+ },
+ {
+   "# id": 200105,
+   "english_word": "Zoo",
+   "part_of_speech": "n",
+   "malayalam_definition": "പഠന-ഗവേഷണ സംബന്ധമായും"
+ },
+ {
+   "# id": 200106,
+   "english_word": "Zoo",
+   "part_of_speech": "n",
+   "malayalam_definition": "പ്രദര്‍ശനത്തിനും വേണ്ടി വന്യമൃഗങ്ങളെ പാര്‍പ്പിച്ചു സംരക്ഷിക്കുന്ന ഉദ്യാനം"
+ },
+ {
+   "# id": 24623,
+   "english_word": "Zoo dynamics",
+   "part_of_speech": "n",
+   "malayalam_definition": "പ്രാണിദേഹ വ്യാപാര ശാസ്‌ത്രം"
+ },
+ {
+   "# id": 24663,
+   "english_word": "Zoo theism",
+   "part_of_speech": "-",
+   "malayalam_definition": "മൃഗപൂജ"
+ },
+ {
+   "# id": 24622,
+   "english_word": "Zoochemistry",
+   "part_of_speech": "n",
+   "malayalam_definition": "പ്രാണിദേഹ രസതന്ത്രശാസ്‌ത്രം"
+ },
+ {
+   "# id": 24624,
+   "english_word": "Zoogamy",
+   "part_of_speech": "n",
+   "malayalam_definition": "പ്രാണ്യുല്‍പ്പാദനം"
+ },
+ {
+   "# id": 24625,
+   "english_word": "Zoogeography",
+   "part_of_speech": "n",
+   "malayalam_definition": "ഓരോയിനം മൃഗങ്ങളും എവിടെയെല്ലാം വസിക്കുന്നു എന്ന്‌ സ്‌പഷ്‌ടമാക്കുന്ന ഭൂമിശാസ്‌ത്രം"
+ },
+ {
+   "# id": 24626,
+   "english_word": "Zooid",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജൈവശരീരം"
+ },
+ {
+   "# id": 24627,
+   "english_word": "Zoolatry",
+   "part_of_speech": "n",
+   "malayalam_definition": "മൃഗാരാധന"
+ },
+ {
+   "# id": 24628,
+   "english_word": "Zoolite",
+   "part_of_speech": "n",
+   "malayalam_definition": "കല്ലിച്ച പ്രാണിശരീരഭാഗം"
+ },
+ {
+   "# id": 24631,
+   "english_word": "Zoological",
+   "part_of_speech": "a",
+   "malayalam_definition": "ജന്തുശാസ്‌ത്രപരമായ"
+ },
+ {
+   "# id": 200110,
+   "english_word": "Zoological",
+   "part_of_speech": "a",
+   "malayalam_definition": "ജന്തുശാസ്ത്രപരമായ"
+ },
+ {
+   "# id": 200111,
+   "english_word": "Zoological",
+   "part_of_speech": "a",
+   "malayalam_definition": "മൃഗവര്‍ണ്ണനമായ"
+ },
+ {
+   "# id": 24632,
+   "english_word": "Zoologist",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജന്തുശാസ്‌ത്രജ്ഞന്‍"
+ },
+ {
+   "# id": 217571,
+   "english_word": "Zoologist",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജന്തുശാസ്ത്രജ്ഞന്‍"
+ },
+ {
+   "# id": 24629,
+   "english_word": "Zoology",
+   "part_of_speech": "n",
+   "malayalam_definition": "പ്രാണിശാസ്‌ത്രം"
+ },
+ {
+   "# id": 24630,
+   "english_word": "Zoology",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജന്തുവിജ്‌ഞാനീയം"
+ },
+ {
+   "# id": 173976,
+   "english_word": "Zoology",
+   "part_of_speech": "n",
+   "malayalam_definition": "ജന്തുശാസ്‌ത്രം"
+ },
+ {
+   "# id": 24657,
+   "english_word": "Zoomorphic",
+   "part_of_speech": "a",
+   "malayalam_definition": "പ്രാണിരൂപപരമായ"
+ },
+ {
+   "# id": 24658,
+   "english_word": "Zoophyte",
+   "part_of_speech": "n",
+   "malayalam_definition": "സസ്യപ്രാണിവര്‍ഗം"
+ },
+ {
+   "# id": 24659,
+   "english_word": "Zoophytoid",
+   "part_of_speech": "-",
+   "malayalam_definition": "സസ്യപ്രാണിപോലെയുള്ളവ"
+ },
+ {
+   "# id": 24660,
+   "english_word": "Zoophytology",
+   "part_of_speech": "n",
+   "malayalam_definition": "സസ്യപ്രാണിശാസ്‌ത്രം"
+ }
+]
+ 
